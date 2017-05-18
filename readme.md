@@ -1,6 +1,6 @@
 # Shaping Up With Angular
 
-## Prompt
+
 
 Your assignment is to go through the first two chapters of Code School's "[Shaping Up With Angular](https://www.codeschool.com/courses/shaping-up-with-angular-js)" course. This will give you a basic familiarity with Angular that will benefit you during tomorrow's intro lesson.
 
